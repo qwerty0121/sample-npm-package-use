@@ -2,12 +2,13 @@
   "name": "sample-npm-package-use",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@qwerty0121/sample-npm-package": "^1.0.0"
+    "@qwerty0121/sample-npm-package": "^1.0.1"
   }
 }
